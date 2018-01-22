@@ -1,0 +1,3 @@
+C:/Users/Explo/Desktop/cpp_indie_studio/build/CMakeFiles/irrlicht.dir
+C:/Users/Explo/Desktop/cpp_indie_studio/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Explo/Desktop/cpp_indie_studio/build/CMakeFiles/ZERO_CHECK.dir

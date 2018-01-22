@@ -1,0 +1,358 @@
+# Blender MTL File: 'None'
+# Material Count: 30
+
+newmtl 01___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.001
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.002
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.003
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.004
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.005
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.006
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.007
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.008
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.020
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.021
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.022
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.023
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.024
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.025
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.026
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.027
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.028
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.029
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.030
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.031
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.032
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.033
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.034
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.035
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 07___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/floor_stone_texture.jpg
+map_Ka media/textures/floor_stone_texture.jpg
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/metal_bare.jpg
+map_Ka media/textures/metal_bare.jpg
+
+newmtl Wood
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wooden_plank.jpg
+map_Ka media/textures/wooden_plank.jpg

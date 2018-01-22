@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\ACharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\AGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Arachne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\ArachneGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\GameLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Hunter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\LifeBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Mage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\MapLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\MyEventReceiver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\PlayersGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\VideoPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\Warrior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\XpBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\initPlayers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\AMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\ChangeKeysMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\CharacterSelectionMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\CreditsMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\LoadMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\MainMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\MenuSaveFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\OptionMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\PlayerSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\ProfilMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\Settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Explo\Desktop\cpp_indie_studio\source\menu\StartGameMenuType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\ACharacter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\AGenerator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Arachne.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\ArachneGenerator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\GameLevel.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Hunter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\LifeBar.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Mage.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Map.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\MapLoader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\MyEventReceiver.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Projectile.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Sound.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Timer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\VideoPlayer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\Warrior.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\XpBar.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\CDynamicMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\CIndexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\CMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\CVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EAttributes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ECullingTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EDebugSceneTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EDeviceTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EDriverFeatures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EDriverTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EGUIAlignment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EGUIElementTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EHardwareBufferFlags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EMaterialFlags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EMaterialTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EMeshWriterEnums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EMessageBoxFlags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EPrimitiveTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ESceneNodeAnimatorTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ESceneNodeTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\EShaderTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ETerrainElements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAnimatedMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAnimatedMeshMD2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAnimatedMeshMD3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAnimatedMeshSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAttributeExchangingObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IAttributes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IBillboardSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IBillboardTextSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IBoneSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ICameraSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IColladaMeshWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ICursorControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IDummyTransformationSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IDynamicMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IEventReceiver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IFileArchive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IFileList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IFileSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGPUProgrammingServices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUICheckBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIColorSelectDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIComboBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIContextMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIEditBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIElementFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIEnvironment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIFileOpenDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIFontBitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIImageList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIInOutFader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIListBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIMeshViewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIScrollBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUISkin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUISpinBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUISpriteBank.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIStaticText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUITabControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUITable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIToolbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUITreeView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGUIWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IGeometryCreator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IImageLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IImageWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IIndexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ILightManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ILightSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ILogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMaterialRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMaterialRendererServices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshManipulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMeshWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IMetaTriangleSelector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IOSOperator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleAnimatedMeshSceneNodeEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleAttractionAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleBoxEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleCylinderEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleFadeOutAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleGravityAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleMeshEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleRingEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleRotationAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleSphereEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IParticleSystemSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IQ3LevelMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IQ3Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IRandomizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IReadFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IReferenceCounted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneCollisionManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeAnimator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeAnimatorCameraFPS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeAnimatorCameraMaya.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeAnimatorCollisionResponse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeAnimatorFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneNodeFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISceneUserDataSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IShaderConstantSetCallBack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IShadowVolumeSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ISkinnedMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ITerrainSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ITextSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ITexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ITimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\ITriangleSelector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IVideoDriver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IVideoModeList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IVolumeLightSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IWriteFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IXMLReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IXMLWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IrrCompileConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\IrrlichtDevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\Keycodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\S3DVertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SAnimatedMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SColor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SExposedVideoData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SIrrCreationParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SKeyMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMaterialLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMeshBufferLightMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SMeshBufferTangents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SParticle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SSharedMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SSkinMeshBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SVertexIndex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SVertexManipulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SViewFrustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\SceneParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\aabbox3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\coreutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\dimension2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\driverChoice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\heapsort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrAllocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrXML.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrlicht.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\irrunpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\line2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\line3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\matrix4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\path.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\plane3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\position2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\rect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\triangle3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\vector2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrlicht\vector3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\AMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\ChangeKeysMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\CharacterSelectionMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\CreditsMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\GlobalVar.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\LoadMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\MainMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\Menu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\OptionMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\PlayerSettings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\ProfilMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\Settings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\menu\StartGameMenuType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ESoundEngineOptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ESoundOutputDrivers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_EStreamModes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IAudioRecorder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IAudioStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IAudioStreamLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IFileFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IFileReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IRefCounted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundDeviceList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundEffectControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundMixedOutputReceiver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_ISoundStopEventReceiver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_IVirtualRefCounted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_SAudioStreamFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_irrKlangTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\ik_vec3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Explo\Desktop\cpp_indie_studio\include\irrKlang\irrKlang.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Explo\Desktop\cpp_indie_studio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{758D4C8F-33E0-3E86-93F5-0455D7119905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0CCB05E8-6D82-3AD6-BC5E-9D38BE7098F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

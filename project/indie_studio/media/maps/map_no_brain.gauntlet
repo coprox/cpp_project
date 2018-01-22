@@ -1,0 +1,8 @@
+./media/models/map_no_brain.obj
+221.8 233
+193.5 -191.7 ./media/models/totem.obj spawner1
+73.6 208 ./media/models/totem.obj spawner2
+-28 -183.3 ./media/models/totem.obj spawner3
+-126.2 211.4 ./media/models/totem.obj spawner4
+-215.9 -150 ./media/models/totem.obj spawner5
+-256 -230.9 ./media/models/exit_cube.obj exit_cube

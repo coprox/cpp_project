@@ -1,0 +1,127 @@
+﻿  Building Custom Rule C:/Users/Explo/Desktop/cpp_indie_studio/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Explo/Desktop/cpp_indie_studio/build/CMakeFiles/generate.stamp is up-to-date.
+  ACharacter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  AGenerator.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Arachne.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  ArachneGenerator.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Camera.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Game.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  GameLevel.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Hunter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\memory(2054): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+  C:\Users\Explo\Desktop\cpp_indie_studio\source\Hunter.cpp(73): note: voir la référence à l'instanciation de la fonction modèle 'std::unique_ptr<Projectile,std::default_delete<_Ty>> std::make_unique<Projectile,irr::scene::ITriangleSelector*,irr::scene::IMetaTriangleSelector*,irr::scene::ISceneManager*&,const irr::core::vector3df&,const std::string&,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>>&,Direction&,bool,size_t&>(irr::scene::ITriangleSelector *&&,irr::scene::IMetaTriangleSelector *&&,irr::scene::ISceneManager *&,const irr::core::vector3df &,const std::string &,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>> &,Direction &,bool &&,size_t &)' en cours de compilation
+          with
+          [
+              _Ty=Projectile
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  LifeBar.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Mage.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\memory(2054): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+  C:\Users\Explo\Desktop\cpp_indie_studio\source\Mage.cpp(72): note: voir la référence à l'instanciation de la fonction modèle 'std::unique_ptr<Projectile,std::default_delete<_Ty>> std::make_unique<Projectile,irr::scene::ITriangleSelector*,irr::scene::IMetaTriangleSelector*,irr::scene::ISceneManager*&,const irr::core::vector3df&,const std::string&,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>>&,Direction&,bool,size_t&>(irr::scene::ITriangleSelector *&&,irr::scene::IMetaTriangleSelector *&&,irr::scene::ISceneManager *&,const irr::core::vector3df &,const std::string &,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>> &,Direction &,bool &&,size_t &)' en cours de compilation
+          with
+          [
+              _Ty=Projectile
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Map.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  MapLoader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  MyEventReceiver.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  PlayersGame.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Projectile.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Sound.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Timer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  VideoPlayer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Warrior.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\memory(2054): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+  C:\Users\Explo\Desktop\cpp_indie_studio\source\Warrior.cpp(74): note: voir la référence à l'instanciation de la fonction modèle 'std::unique_ptr<Projectile,std::default_delete<_Ty>> std::make_unique<Projectile,irr::scene::ITriangleSelector*,irr::scene::IMetaTriangleSelector*,irr::scene::ISceneManager*&,const irr::core::vector3df&,const std::string&,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>>&,Direction&,bool,size_t&,bool>(irr::scene::ITriangleSelector *&&,irr::scene::IMetaTriangleSelector *&&,irr::scene::ISceneManager *&,const irr::core::vector3df &,const std::string &,const std::list<std::shared_ptr<ACharacter>,std::allocator<std::shared_ptr<ACharacter>>> &,Direction &,bool &&,size_t &,bool &&)' en cours de compilation
+          with
+          [
+              _Ty=Projectile
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  XpBar.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Génération de code en cours...
+  Compilation en cours...
+  initPlayers.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  AMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  ChangeKeysMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  CharacterSelectionMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  CreditsMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  LoadMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  MainMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Menu.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  MenuSaveFile.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  OptionMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  PlayerSettings.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  ProfilMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Settings.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  StartGameMenuType.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\cmath(47): warning C4577: 'noexcept' utilisé sans mode de gestion d'exceptions spécifié. L'arrêt en cas d'exception n'est pas garanti. Spécifiez /EHsc
+  Génération de code en cours...
+  irrlicht.vcxproj -> C:\Users\Explo\Desktop\cpp_indie_studio\build\Release\irrlicht.exe

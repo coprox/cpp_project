@@ -1,0 +1,16 @@
+./media/models/map_renaud.obj
+-238.328 234.53
+-131.101 219.172 ./media/models/heal_potion.obj potion1
+-36.3012 54.572 ./media/models/totem.obj spawner1
+-41.3012 -198.728 ./media/models/key.obj key1
+-216.001 -198.928 ./media/models/totem.obj spawner2
+1.50119 -105.128 ./media/models//Door_Left.obj door1
+85.3988 -70.428 ./media/models/totem.obj spawner3
+85.3988 -145.228 ./media/models/totem.obj spawner4
+186.999 -186.728 ./media/models/key.obj key2
+201.999 46.0719 ./media/models/key.obj key3
+220.099 137.1719 ./media/models//Door_Left_vertical.obj door2
+49.8988 137.0719 ./media/models//Door_Left_vertical.obj door3
+25.4988 195.972 ./media/models/totem.obj spawner5
+-51.1012 141.072 ./media/models/totem.obj spawner6
+222.587 236.717 ./media/models/exit_cube.obj exit_cube

@@ -1,0 +1,192 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl 01___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.001
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.002
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.003
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.004
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.005
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.006
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.007
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.008
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.009
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.010
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 01___Default.011
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wall1.jpg
+map_Ka media/textures/wall1.jpg
+
+newmtl 07___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/floor_stone_texture.jpg
+map_Ka media/textures/floor_stone_texture.jpg
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Metal
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/metal_bare.jpg
+map_Ka media/textures/metal_bare.jpg
+
+newmtl Wood
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd media/textures/wooden_plank.jpg
+map_Ka media/textures/wooden_plank.jpg

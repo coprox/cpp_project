@@ -1,0 +1,6 @@
+./media/models/map1.obj
+-218.403 -203.334
+121.105 243 ./media/models/Door_Left.obj door1
+-195.346 -97.9832 ./media/models/key.obj key1
+-63.9947 83.9756 ./media/models/totem.obj spawner1
+-251.695 215.676 ./media/models/exit_cube.obj exit_cube

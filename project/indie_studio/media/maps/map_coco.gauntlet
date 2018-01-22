@@ -1,0 +1,15 @@
+./media/models/map_coco.obj
+220.292 236.02
+131.992 172.52 media/models/key.obj key1
+-147.408 182.52 media/models/Door_Left.obj door1
+-218.108 27.7196 media/models/totem.obj spawner1
+-203.308 212.32 media/models/totem.obj spawner2
+-203.308 129.419 media/models/totem.obj spawner3
+-20.4084 26.2196 media/models/key.obj key2
+75.3109 9.21959 media/models/Door_Left.obj door2
+129.411 31.3196 media/models/totem.obj spawner4
+197.711 31.3196 media/models/totem.obj spawner5
+-127.089 -213.98 media/models/Door_Left.obj door3
+47.3109 -190.48 media/models/totem.obj spawner6
+149.011 -193.88 media/models/totem.obj spawner7
+250.511 -240.08 media/models/exit_cube.obj exit_cube

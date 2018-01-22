@@ -1,0 +1,10 @@
+./media/models/map3.obj
+224.9 228
+-176.3 -179.8 media/models/totem.obj spawner1
+-234.5 -179.8 media/models/key.obj key1
+-237.8 181.6 media/models/key.obj key2
+-186.2 181.6 media/models/totem.obj spawner2
+203.317 -204.833 media/models/heal_potion.obj potion1
+-31.3067 15.5671 media/models/Door_Left.obj door1
+-154.607 15.5671 media/models/Door_Left.obj door2
+-236.207 3.26709 media/models/exit_cube.obj exit_cube

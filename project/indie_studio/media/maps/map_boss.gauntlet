@@ -1,0 +1,6 @@
+./media/models/map_boss.obj
+-238.328 234.53
+-180.331 -216.355 media/models/Door_Left.obj door1
+-219.89 -76.4004 media/models/key.obj key1
+-99.1122 116.704 media/models/totem.obj spawner1
+170.788 116.704 media/models/totem.obj spawner2

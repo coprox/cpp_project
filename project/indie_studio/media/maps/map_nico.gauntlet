@@ -1,0 +1,12 @@
+./media/models/map_nico.obj
+-244.7 -8.4
+-69.8 -28.4 ./media/models/totem.obj spawner1
+11.9 -28.4 ./media/models/key.obj key1
+7.00001 120.1 ./media/models/Door_Left_vertical.obj door1
+1.59999 -100 ./media/models/Door_Left_vertical.obj door2
+150.4 5.6 ./media/models/Door_Left.obj door3
+196.9 159.9 ./media/models/totem.obj spawner2
+196.9 219.9 ./media/models/key.obj key2
+-125.97 179.455 ./media/models/totem.obj spawner3
+-232.57 231.155 ./media/models/key.obj key3
+38.3 -253.3 ./media/models/exit_cube.obj exit_cube

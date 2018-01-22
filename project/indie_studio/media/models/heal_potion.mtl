@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Bottle
+Ns 0.000000
+Ka 0.541176 0.541176 0.541176
+Kd 1.000000 0.000000 0.002878
+Ks 1.000000 0.083465 0.090432
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 2
+map_Kd media/dynamic_objects/loot/PotionBottle_color.png
+
+newmtl CapMaterial
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.457530 0.134618 0.007363
+Ks 0.486896 0.083923 0.015774
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd media/dynamic_objects/loot/PotionBottle_color.png
+
+newmtl LiquidMaterial
+Ns 0.000000
+Ka 0.752941 0.752941 0.752941
+Kd 0.033837 0.065886 0.752941
+Ks 0.941176 0.494118 0.368627
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd media/dynamic_objects/loot/PotionBottle_color.png
