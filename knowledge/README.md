@@ -1,2 +1,5 @@
 # cpp_project
-project in modern C++ during studies
+
+in progress..
+
+/* look in project */
